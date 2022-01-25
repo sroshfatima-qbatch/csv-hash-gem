@@ -52,3 +52,8 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+
+# gem 'dighashes', :git => 'https://github.com/sharjeel-mukhtar-qbatch/Dig_Hashes_gem.git', :branch => 'main'
+# gem 'mechanize'
+# gem 'scrape_page_service', :git => 'https://github.com/shaharyar-qbatch/page_fetcher', :branch => 'main'
